@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(240, 149, 12);
+}
+
+.mainImage {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 75vw;
+  height: 145vh;
+}
+
+@font-face {
+  font-family: "scifi";
+  src: url("Kusanagi.woff") format('woff');
+}
+
+.maintitle {
+  font-size: 50px;
+  font-family: scifi;
+  position: relative;
+  left: 10vw;
+  top: 47vh;
+}
+
+.cls-1 {
+  fill: #1a1a1a;
+}
+
+.cls-2 {
+  fill: #f2a726;
+}
+
+.cls-3 {
+  fill: #666;
+}
