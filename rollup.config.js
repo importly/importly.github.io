@@ -44,6 +44,6 @@ export default {
     }),
     resolve({ browser: true }),
     serve(),
-    livereload('public'),
+    livereload(),
   ],
 };

@@ -295,7 +295,7 @@ var app = (function () {
     const app = new App({
       target: document.body,
       props: {
-        name: 'Daffodi',
+        name: ', I am going to add more later.',
       },
     });
 
