@@ -34,7 +34,7 @@ function serve() {
 export default {
   input: 'src/main.js',
   output: {
-    file: 'public/build/bundle.js',
+    file: 'build/bundle.js',
     format: 'iife',
     name: 'app',
   },
