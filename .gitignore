@@ -1,7 +1,0 @@
-node_modules
-_config.yml
-.vscode
-indexold.html
-package.json
-package-lock.json
-rollup.config.js
